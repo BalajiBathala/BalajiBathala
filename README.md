@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Balaji Bathala
 
-🚀 **AWS | DevOps Engineer | Cloud Enthusiast**
+ **AWS | DevOps Engineer | Cloud Enthusiast**
 
 I’m a passionate DevOps engineer from Andhra Pradesh, India, with hands-on experience in designing scalable cloud infrastructure, automating CI/CD workflows, and deploying containerized applications using Docker and Kubernetes.  
 I recently completed a DevOps internship at SocialTek.in, where I worked on real-time cloud projects and production-grade architectures.  
